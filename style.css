@@ -16,6 +16,7 @@ html {
   
   th {
     background-color: rgb(235,235,235);
+    
   }
   
   td {
@@ -28,8 +29,17 @@ html {
   
   tr:nth-child(odd) td {
     background-color: rgb(245,245,245);
+    
   }
   
   caption {
     padding: 10px;
+  }
+
+  #planets{
+    border: 2px solid black;
+  }
+
+  #name{
+    border: 2px solid black;
   }
